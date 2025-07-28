@@ -48,12 +48,14 @@ The project showcases how advanced mathematical concepts can be (mis)used to pro
 - **Model Theory**: Ultraproducts, Łoś's theorem, first-order structures
 - **Number Theory**: Dirichlet's theorem, quadratic reciprocity
 - **Set Theory**: Cardinal arithmetic, Cantor's theorem
-- **Topology**: Density arguments, Baire category theorem
-- **Functional Analysis**: Measure theory, density arguments
 
 ## Contributing
 
 Feel free to add your own convoluted proofs! The more sophisticated the machinery for proving simple facts, the better.
+
+## Credits
+
+Coauthored with [Alok Singh.](https://github.com/alok/)
 
 ## License
 
