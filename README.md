@@ -4,7 +4,7 @@ A collection of absurdly sophisticated proofs of simple mathematical facts in Le
 
 ## Overview
 
-This project demonstrates how simple mathematical facts can be proven using unnecessarily complex mathematical machinery. It's inspired by the MathOverflow question ["Awfully sophisticated proof for simple facts"](https://mathoverflow.net/questions/42512/awfully-sophisticated-proof-for-simple-facts) and [Asaf Karagila's proof](https://math.stackexchange.com/questions/1311228/what-is-the-most-unusual-proof-you-know-that-sqrt2-is-irrational/1311239#1311239) of the irrationality of √2 using ultrafilters. These files test the faithfulness of repositories in mathlib by applying them in contrived yet mathematically rigorous proofs outside their typical applications.
+This project demonstrates how simple mathematical facts can be proven using unnecessarily complex mathematical machinery. It's inspired by the MathOverflow question ["Awfully sophisticated proof for simple facts"](https://mathoverflow.net/questions/42512/awfully-sophisticated-proof-for-simple-facts) and [Asaf Karagila's proof of the irrationality of √2 using ultrafilters](https://math.stackexchange.com/questions/1311228/what-is-the-most-unusual-proof-you-know-that-sqrt2-is-irrational/1311239#1311239). These files test the faithfulness of repositories in mathlib by applying them in contrived yet mathematically rigorous proofs outside their typical applications.
 
 ## Autoformalizer Benchmark
 
